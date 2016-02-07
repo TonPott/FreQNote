@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tunening_array">
+        <item>rein</item>
+        <item>gleichschwebend temperiert</item>
+        <item>mitteltönig</item>
+    </string-array>
+    <string-array name="range_array">
+        <item>Subsubkontra</item>
+        <item>Subkontra</item>
+        <item>Kontra</item>
+        <item>Groß</item>
+        <item>Klein</item>
+        <item>eingestrichen</item>
+        <item>zweigestrichen</item>
+        <item>dreigestrichen</item>
+        <item>viergestrichen</item>
+        <item>fünfgestrichen</item>
+        <item>sechsgestrichen</item>
+    </string-array>
+</resources>
